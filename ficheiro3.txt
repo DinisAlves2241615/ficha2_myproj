@@ -1,12 +1,10 @@
-Este é o exemplo de um ficheiro de texto file3
+<h1>Lidta de comidas</h1>
 
 
+<h2>Comidas</h2>
 
-
-
-
-
-
-
-
-Adicionei linhas ao file3
+<ul>
+  <li>Bolos</li>
+  <li>Tostas</li>
+  <li>Sandes</li>
+</ul>
