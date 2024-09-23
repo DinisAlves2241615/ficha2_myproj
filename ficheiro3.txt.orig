@@ -3,22 +3,16 @@
 <h2>Bebidas</h2>
 
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
 <ul>
    <li>Coffee</li>
    <li>Tea</li>
    <li>Milk</li>
 =======
->>>>>>> Master
 <h2>Comidas</h2>
 
 <ul>
   <li>Bolos</li>
   <li>Tostas</li>
   <li>Sandes</li>
-<<<<<<< HEAD
-=======
 >>>>>>> NovaFeature
->>>>>>> Master
 </ul>
